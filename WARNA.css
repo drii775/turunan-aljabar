@@ -1,0 +1,67 @@
+div.appview-container.st-emotion-cache-1wrcr25.ea3mdgi6{
+	background: #7CB5C7;
+	font-size: 16px;
+    line-height: 1.6;
+    text-size-adjust: 100%;
+    /-webkit-tap-highlight-color:  #1B1C1E;
+    -webkit-font-smoothing: auto;
+    color: #1B1C1E;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    place-content: flex-start;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    position: absolute;
+    inset: 0px;
+    overflow: hidden;
+}
+
+section.st-emotion-cache-vk3wp9.eczjsme11{
+-webkit-tap-highlight-color: #1B1C1E;
+-webkit-font-smoothing: auto;
+color: #1B1C1E;
+font-size: 16px;
+line-height: 1.6;
+text-size-adjust: 100%;
+top: 2px;
+background-color:  #CCEDF5;
+z-index: 999991;
+min-width: 244px;
+max-width: 550px;
+transform: none;
+transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width 300ms ease 0s;
+box-shadow: #7CB5C7 -2rem 0px 2rem 2rem;
+position: relative;
+user-select: auto;
+width: 336px;
+height: 584px;
+box-sizing: border-box;
+flex-shrink: 0;
+}
+
+header.st-emotion-cache-18ni7ap.ezrtsby2{
+font-size: 16px;
+font-family: "Source Sans Pro", sans-serif;
+font-weight: 400;
+line-height: 1.6;
+text-size-adjust: 100%;
+-webkit-tap-highlight-color: #1B1C1E;
+-webkit-font-smoothing: auto;
+color: #1B1C1E;
+box-sizing: border-box;
+position: fixed;
+top: 0px;
+left: 0px;
+right: 0px;
+height: 2.875rem;
+background: #7CB5C7;
+outline: none;
+z-index: 999990;
+display: block;
+}
+
+.serif-title {
+    font-family: serif;
+}
